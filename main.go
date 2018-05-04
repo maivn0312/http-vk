@@ -45,7 +45,6 @@ func init() {
 	if err != nil {
 		panic(err.Error())
 	}
-	fmt.Println(conf)
 }
 
 func main() {
