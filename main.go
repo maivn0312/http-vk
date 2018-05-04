@@ -5,7 +5,6 @@ import (
 	"strings"
 	"net/http"
 	"io/ioutil"
-	"fmt"
 
 	"github.com/tkanos/gonfig"
 	"github.com/gin-gonic/gin"
